@@ -1,0 +1,38 @@
+.logo{
+    text-align: center;
+    padding: 2.6rem 1rem;
+}
+
+.mat-icon{
+    vertical-align: center;
+    margin-left: 1rem;
+}
+
+.mat-divider{
+    border-top-width: 2px;
+    border-color: white;
+}
+
+.mat-list-item{
+    color: azure !important;
+    font-size: 0.8rem;
+    height: 45px !important ;
+    margin-bottom: 4px;
+}
+
+.mat-list-item-content{
+    border-radius: 5px;
+    margin: 8px;
+
+}
+
+a:hover{
+    background: #2c3344 !important;
+}
+
+.mat-subheader{
+    color: azure;
+    font-size: 0.6rem;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
